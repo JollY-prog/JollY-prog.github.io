@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+  height: 100vh; 
+  background-color: #212121;
+}
+
+.container {
+  text-align: center;
+  color: #e8e8e8;
+}
+
+.container h1 {
+  font-size: 36px;
+  color: #333;
+  color: #e8e8e8;
+  font-family: Ubuntu;
+}
+
+.container h2 {
+  font-size: 24px;
+  color: #e8e8e89f;
+  font-family: Inter;
+}
+
+.icon {
+  max-width: 130px;
+  border-radius: 100px;
+  transition: 0.4s;
+}
+
+.icon:hover {
+  max-width: 140px;
+  transition: 0.4s;
+}
+
+.github {
+  color: white;
+  margin-right: 10px;
+}
+
+.discord {
+  color: white;
+}

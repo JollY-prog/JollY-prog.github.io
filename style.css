@@ -43,6 +43,7 @@ body {
 .github {
   color: white;
   margin-right: 10px;
+  text-decoration: none;
 }
 
 .discord {

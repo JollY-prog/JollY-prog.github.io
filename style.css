@@ -82,3 +82,10 @@ ul {
   justify-content: left;
   list-style-type: none;
 }
+
+#footer {
+  color: #e8e8e88c;
+  position: absolute;
+  bottom: 10px;
+  font-family: Ubuntu;
+}

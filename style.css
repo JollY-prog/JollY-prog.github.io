@@ -25,7 +25,6 @@ body {
 
 .container h2 {
   font-size: 24px;
-  color: #e8e8e89f;
   font-family: Inter;
 }
 
@@ -66,4 +65,20 @@ body {
 
 .all-link {
   font-family: Inter;
+}
+
+.text {
+  color: #e8e8e88c;
+}
+
+.my {
+  color: white;
+}
+
+ul {
+  color: #e8e8e88c;
+  font-family: Inter;
+  padding: 0;
+  justify-content: left;
+  list-style-type: none;
 }

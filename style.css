@@ -56,6 +56,7 @@ body {
 .discord {
   color: white;
   transition: 0.3s;
+  text-decoration: none;
 }
 
 .discord:hover {
@@ -88,4 +89,23 @@ ul {
   position: absolute;
   bottom: 10px;
   font-family: Ubuntu;
+}
+
+.discord-server {
+  color: white;
+  text-decoration: none;
+  margin-left: 10px;
+  transition: 0.3s;
+}
+
+.discord-server:hover {
+  color: #e8e8e88c;
+  transition: 0.3s;
+}
+
+.links {
+  display: flex;
+  align-items: center;
+  padding: 0;
+  position: relative;
 }

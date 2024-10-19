@@ -109,3 +109,50 @@ ul {
   padding: 0;
   position: relative;
 }
+
+.web_developer {
+  color: #e8e8e88c;
+  text-decoration: none;
+}
+
+.web_developer:hover {
+  color: white;
+  transition: 0.3s;
+}
+
+.producer_page {
+  color: #e8e8e88c;
+  text-decoration: none;
+}
+
+.producer_page:hover {
+  color: white;
+  transition: 0.3s;
+}
+
+.discord_staffer {
+  color: #e8e8e88c;
+  text-decoration: none;
+}
+
+.discord_staffer:hover {
+  color: white;
+  transition: 0.3s;
+}
+
+.youtube {
+  color: white;
+  text-decoration: none;
+  margin-left: 10px;
+  transition: 0.3s;
+}
+
+.youtube:hover {
+  color: #e8e8e88c;
+  transition: 0.3s;
+}
+
+.angry {
+  color: #e8e8e88c;
+  font-family: Inter;
+}

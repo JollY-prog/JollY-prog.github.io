@@ -32,7 +32,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     function getRandomColor() {
-        const colors = ["#FFD700", "#FF5733", "#33FF57", "#5733FF", "#33D4FF", "#FF33D1"];
+        const colors = ["#d9b0ff", "#bf7bff", "#867496", "#643d88"];
         return colors[Math.floor(Math.random() * colors.length)];
     }
 
